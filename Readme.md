@@ -3,7 +3,7 @@
 
 # Güvenlik açığı sebebleri;
 
-# ⚠️ Kullandığın uptime servisi güvenilir deil verilerini güvende tutmuyor,
+# ⚠️ Kullandığın uptime servisi güvenilir değil verilerinizi güvende tutmuyor,
 # ⚠️ Projendeki tokenin güvende deil. 
 
 # ~ [Uptime Konsolosluğu](https://discord.gg/J2pYWSD5A7)
