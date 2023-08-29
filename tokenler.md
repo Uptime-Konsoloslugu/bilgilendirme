@@ -9,6 +9,7 @@
 # ~ [Uptime Konsolosluğu](https://discord.gg/J2pYWSD5A7)
 
 # Tokenler;
+MTE0MTA1OTMwNjE5Njg0MDQ5OQ.GJ8aOQ.qElNzq9uTxBLozA9tQbRPNXho1RszvIz2tV64k
 MTE0MzI4MTg4OTY1NDg4NjQzMA.GXECGs.gNGXc6DnDvlfY-dpygoFAtWbkarpzJVOA_3QzI
 MTEyMzMxMzQxMDI2ODk5NTY1NQ.GlN-4_.5ILzHjUwH9QG68OV8VfW8cTfvDJ9dUahIaszLU       
 MTEyNjU3MjY5MjIwNDY4MzI5Ng.GlFBQm.wz_FpymR-pAsyHvy0TZi4h8hKMldWL00vUspvY
